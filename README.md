@@ -1,2 +1,2 @@
-# Kickstarter-Analysis
-Performing analysis on kickstarter data
+# An analysis of Kickstarter campaigns
+Performing analysis on kickstarter data using pivot tables and filters.
